@@ -3,5 +3,8 @@ int main()
 {
 return 0;
 }
-    <#MyEnumValueC#> = 1 << 2,
-};
+sadsadasd
+in my house
+   <#MyEnumValueC#> = 1 << 2,
+}
+sssssss;
