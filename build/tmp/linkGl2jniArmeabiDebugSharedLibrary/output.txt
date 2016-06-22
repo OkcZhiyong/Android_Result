@@ -1,0 +1,4 @@
+See file:///Users/dev/Desktop/jenkins/workspace/AndroidStudio/hello-gl2/app/build/tmp/linkGl2jniArmeabiDebugSharedLibrary/output.txt for all output for linkGl2jniArmeabiDebugSharedLibrary.
+linking libgl2jni.so successful.
+
+Finished linkGl2jniArmeabiDebugSharedLibrary, see full log file:///Users/dev/Desktop/jenkins/workspace/AndroidStudio/hello-gl2/app/build/tmp/linkGl2jniArmeabiDebugSharedLibrary/output.txt.

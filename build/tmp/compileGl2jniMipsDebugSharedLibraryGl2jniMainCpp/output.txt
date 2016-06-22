@@ -1,0 +1,6 @@
+See file:///Users/dev/Desktop/jenkins/workspace/AndroidStudio/hello-gl2/app/build/tmp/compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp/output.txt for all output for compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp.
+compiling gl_code.cpp successful.
+clang++: warning: optimization flag '-finline-functions' is not supported
+clang++: warning: argument unused during compilation: '-finline-functions'
+
+Finished compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp, see full log file:///Users/dev/Desktop/jenkins/workspace/AndroidStudio/hello-gl2/app/build/tmp/compileGl2jniMipsDebugSharedLibraryGl2jniMainCpp/output.txt.
