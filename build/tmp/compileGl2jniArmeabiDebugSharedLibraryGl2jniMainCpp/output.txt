@@ -1,4 +1,0 @@
-See file:///Users/dev/Desktop/jenkins/workspace/AndroidStudio/hello-gl2/app/build/tmp/compileGl2jniArmeabiDebugSharedLibraryGl2jniMainCpp/output.txt for all output for compileGl2jniArmeabiDebugSharedLibraryGl2jniMainCpp.
-compiling gl_code.cpp successful.
-
-Finished compileGl2jniArmeabiDebugSharedLibraryGl2jniMainCpp, see full log file:///Users/dev/Desktop/jenkins/workspace/AndroidStudio/hello-gl2/app/build/tmp/compileGl2jniArmeabiDebugSharedLibraryGl2jniMainCpp/output.txt.
